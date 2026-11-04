@@ -569,9 +569,13 @@ The following screenshots demonstrate the prompts and actual model responses obt
 
 ### Experiment 3 – Structured JSON Output
 
-**Test 1 and Test 2**
+**Test 1**
 
-![JSON Test 1 and Test 2](screenshots/experiment3-test1-test2.jpg)
+![JSON Test 1](screenshots/experiment3-test1.jpg)
+
+**Test 2**
+
+![JSON Test 1](screenshots/experiment3-test2.jpg)
 
 **Test 3**
 
