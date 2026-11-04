@@ -571,19 +571,19 @@ The following screenshots demonstrate the prompts and actual model responses obt
 
 **Test 1 and Test 2**
 
-![JSON Test 1 and Test 2](screenshots/experiment3-test1-test2.png)
+![JSON Test 1 and Test 2](screenshots/experiment3-test1-test2.jpg)
 
 **Test 3**
 
-![JSON Test 3](screenshots/experiment3-test3.png)
+![JSON Test 3](screenshots/experiment3-test3.jpg)
 
 **Test 4**
 
-![JSON Test 4](screenshots/experiment3-test4.png)
+![JSON Test 4](screenshots/experiment3-test4.jpg)
 
 **Test 5**
 
-![JSON Test 5](screenshots/experiment3-test5.png)
+![JSON Test 5](screenshots/experiment3-test5.jpg)
 
 ---
 
@@ -594,9 +594,6 @@ The following screenshots demonstrate the prompts and actual model responses obt
 **Platform:** Google AI Studio  
 **Model:** Gemini  
 **Documentation:** GitHub Markdown
-
-**Author:** Vijay Reddy S  
-**GitHub:** [VijayReddy-07](https://github.com/VijayReddy-07)
 
 ---
 
